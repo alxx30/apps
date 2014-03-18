@@ -6,7 +6,7 @@ body {
 	padding: 0;
 }
 #page, #page2, #page3, #page4, #page5, #page6, #page7, #page8
-{	background: url(../images/Vaughn%20Charter/logo%20intro.jpg); max-width: inherit}
+{	background: url(../images/images2/rain-forest/body-background.jpg)}
 
 
 
@@ -22,3 +22,19 @@ body {
 #page4 div h1 strong {
 
 }
+#page .header h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	font-size: 36px;
+	color: #66FF66;
+	text-align: center;
+	font-style: italic;
+	text-decoration: blink;
+	height: auto;
+	width: auto;
+	border-top-style: outset;
+	border-right-style: outset;
+	border-bottom-style: outset;
+	border-left-style: outset;
+}
+
