@@ -59,7 +59,15 @@
 
   </div>
 	
-		<h4><button data-icon="home"><a href="javasctipt:closeWindow();">Close Window</button></a></h4>
+		<h4><button data-icon="home"><script type="text/javascript">
+     var popit = true;
+     window.onbeforeunload = function() { 
+          if(popit == true) {
+               popit = false;
+               return "Are you sure you want to leave?"; 
+          }
+     }
+</script></button></a></h4>
 	</div>
 </div>
 
