@@ -50,3 +50,13 @@ The project was completed as a working pilot but did not move forward due to fun
 - Backend scalability
 - User authentication enhancements
 - UI/UX improvements
+
+*******## 🧠 System Design
+
+- Mobile app frontend connected to structured JSON data
+- Google Docs used as a lightweight backend database
+- Google Talk integration for real-time communication
+- External resource linking for reporting and compliance (StopBullying.gov)
+
+This approach allowed for a low-cost, easily deployable solution without requiring complex infrastructure.
+
