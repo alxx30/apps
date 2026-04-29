@@ -1,0 +1,52 @@
+School Communication App (Pilot)
+# School Communication App (Pilot)
+
+A mobile application designed to improve communication between parents and schools by providing a simple way to track student progress and receive updates.
+
+## 🚀 Overview
+I built this app as a pilot project to address communication gaps between parents and schools. The goal was to create a simple and accessible platform for sharing updates, tracking progress, and improving engagement.
+
+## 🔧 Features
+
+- 📅 **School Calendar**
+  - Displays school events, schedules, and sports activities for parents and students
+
+- 🛡️ **Bullying Reporting Integration**
+  - Direct link to California reporting resources via :contentReference[oaicite:0]{index=0}
+  - Provides a safe and accessible way for parents/students to report incidents
+
+- 📇 **School Directory**
+  - Centralized contact list of staff, teachers, and administration
+  - Direct phone numbers and extensions stored via Google Docs integration
+
+- 💬 **Real-Time Communication**
+  - Integrated with Google Talk for chat and voice communication between parents and teachers
+  - Enabled direct contact without needing additional platforms
+
+- ☁️ **Cloud-Based Setup**
+  - Used JSON-based structure for app data handling
+  - Leveraged Google Docs as a lightweight backend for storing school information
+  - Required only a Gmail account for schools to get started
+
+- 🔄 **Scalable Design (In Progress)**
+  - Planned expansion to support individual teacher accounts
+  - Designed for future improvements in authentication and user management
+
+## 🧠 My Role
+- Designed and developed the application from concept to working pilot
+- Built core features and user workflows
+- Handled testing and iteration of the application
+
+## 📈 Outcome
+The project was completed as a working pilot but did not move forward due to funding limitations. However, it demonstrates my ability to take an idea from concept to implementation.
+
+## 🛠️ Tech Stack
+(Add your tech here — Android, Java, etc.)
+
+## 📸 Screenshots
+(Add screenshots if you have them — HUGE bonus)
+
+## 🔮 What I’d Improve
+- Backend scalability
+- User authentication enhancements
+- UI/UX improvements
